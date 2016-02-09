@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Site Helper",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+
+    }
+  ],
+  "permissions": [
+    "tabs"
+  ],
+
+  "browser_action": {
+    "default_title": "SiteHelper",
+    "popup": "popup.html"
+  }
+
+}
