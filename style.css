@@ -1,0 +1,10 @@
+a {
+    display: block;
+    padding: 10px;
+}
+.myClass {
+    background-color: aqua;
+    height: 30px;
+    border: 2px solid blue;
+    border-radius: 15px;
+}
